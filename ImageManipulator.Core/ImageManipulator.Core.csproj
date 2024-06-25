@@ -49,7 +49,6 @@
     <Compile Include="Effects\RadiusEffectProvider.cs" />
     <Compile Include="Effects\ResizeEffectProvider.cs" />
     <Compile Include="Models\EffectParameter.cs" />
-    <Compile Include="Models\Image.cs" />
     <Compile Include="Processing\PluginManager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
